@@ -1,0 +1,1389 @@
+[
+  {
+    "name": "Tylenol",
+    "genericName": "Acetaminophen",
+    "category": "Pain Relief",
+    "use": "Relieves mild to moderate pain and reduces fever.",
+    "dosage": "Adults: 500mg every 6 hours. Max 4g/day.",
+    "sideEffects": "Nausea, rash, liver damage with overdose.",
+    "warnings": "Avoid with alcohol or liver conditions."
+  },
+  {
+    "name": "Advil",
+    "genericName": "Ibuprofen",
+    "category": "Pain Relief",
+    "use": "Relieves pain, inflammation, and fever.",
+    "dosage": "Adults: 200-400mg every 4-6 hours. Max 3.2g/day.",
+    "sideEffects": "Stomach pain, nausea, bleeding risk.",
+    "warnings": "Avoid in patients with ulcers or kidney issues."
+  },
+  {
+    "name": "Claritin",
+    "genericName": "Loratadine",
+    "category": "Allergy",
+    "use": "Relieves allergy symptoms like sneezing and itching.",
+    "dosage": "Adults: 10mg once daily.",
+    "sideEffects": "Drowsiness, headache, dry mouth.",
+    "warnings": "Consult doctor if pregnant or breastfeeding."
+  },
+  {
+    "name": "DayQuil",
+    "genericName": "Acetaminophen/Dextromethorphan",
+    "category": "Cold & Flu",
+    "use": "Relieves cold and flu symptoms like cough and congestion.",
+    "dosage": "Adults: 30mL every 4 hours. Max 6 doses/day.",
+    "sideEffects": "Dizziness, nausea, rash.",
+    "warnings": "Do not use with other acetaminophen products."
+  },
+  {
+    "name": "Drug1",
+    "genericName": "GenericSubstance1",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 1.",
+    "dosage": "Adults: 569mg every 8 hours.",
+    "sideEffects": "Rash, Nausea, Stomach pain",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug2",
+    "genericName": "GenericSubstance2",
+    "category": "Skin Care",
+    "use": "Used for treating condition 2.",
+    "dosage": "Adults: 875mg every 8 hours.",
+    "sideEffects": "Stomach pain, Drowsiness, Dizziness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug3",
+    "genericName": "GenericSubstance3",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 3.",
+    "dosage": "Adults: 35mg every 12 hours.",
+    "sideEffects": "Stomach pain, Drowsiness, Dizziness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug4",
+    "genericName": "GenericSubstance4",
+    "category": "Skin Care",
+    "use": "Used for treating condition 4.",
+    "dosage": "Adults: 304mg every 6 hours.",
+    "sideEffects": "Dizziness, Constipation, Rash",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug5",
+    "genericName": "GenericSubstance5",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 5.",
+    "dosage": "Adults: 247mg every 12 hours.",
+    "sideEffects": "Dizziness, Stomach pain, Dry mouth",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug6",
+    "genericName": "GenericSubstance6",
+    "category": "Skin Care",
+    "use": "Used for treating condition 6.",
+    "dosage": "Adults: 431mg every 8 hours.",
+    "sideEffects": "Dizziness, Dry mouth, Nausea",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug7",
+    "genericName": "GenericSubstance7",
+    "category": "Skin Care",
+    "use": "Used for treating condition 7.",
+    "dosage": "Adults: 953mg every 8 hours.",
+    "sideEffects": "Rash, Dizziness, Headache",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug8",
+    "genericName": "GenericSubstance8",
+    "category": "Skin Care",
+    "use": "Used for treating condition 8.",
+    "dosage": "Adults: 155mg every 8 hours.",
+    "sideEffects": "Stomach pain, Drowsiness, Dizziness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug9",
+    "genericName": "GenericSubstance9",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 9.",
+    "dosage": "Adults: 206mg every 4 hours.",
+    "sideEffects": "Drowsiness, Rash, Nausea",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug10",
+    "genericName": "GenericSubstance10",
+    "category": "Mental Health",
+    "use": "Used for treating condition 10.",
+    "dosage": "Adults: 29mg every 8 hours.",
+    "sideEffects": "Rash, Headache, Dry mouth",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug11",
+    "genericName": "GenericSubstance11",
+    "category": "Heart Health",
+    "use": "Used for treating condition 11.",
+    "dosage": "Adults: 15mg every 8 hours.",
+    "sideEffects": "Dizziness, Constipation, Nausea",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug12",
+    "genericName": "GenericSubstance12",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 12.",
+    "dosage": "Adults: 502mg every 8 hours.",
+    "sideEffects": "Rash, Dizziness, Drowsiness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug13",
+    "genericName": "GenericSubstance13",
+    "category": "Mental Health",
+    "use": "Used for treating condition 13.",
+    "dosage": "Adults: 820mg every 12 hours.",
+    "sideEffects": "Dry mouth, Stomach pain, Rash",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug14",
+    "genericName": "GenericSubstance14",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 14.",
+    "dosage": "Adults: 885mg every 4 hours.",
+    "sideEffects": "Dry mouth, Headache, Stomach pain",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug15",
+    "genericName": "GenericSubstance15",
+    "category": "Allergy",
+    "use": "Used for treating condition 15.",
+    "dosage": "Adults: 582mg every 8 hours.",
+    "sideEffects": "Headache, Dry mouth, Stomach pain",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug16",
+    "genericName": "GenericSubstance16",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 16.",
+    "dosage": "Adults: 127mg every 12 hours.",
+    "sideEffects": "Stomach pain, Nausea, Drowsiness",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug17",
+    "genericName": "GenericSubstance17",
+    "category": "Heart Health",
+    "use": "Used for treating condition 17.",
+    "dosage": "Adults: 868mg every 12 hours.",
+    "sideEffects": "Nausea, Dizziness, Rash",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug18",
+    "genericName": "GenericSubstance18",
+    "category": "Heart Health",
+    "use": "Used for treating condition 18.",
+    "dosage": "Adults: 11mg every 12 hours.",
+    "sideEffects": "Drowsiness, Headache, Nausea",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug19",
+    "genericName": "GenericSubstance19",
+    "category": "Allergy",
+    "use": "Used for treating condition 19.",
+    "dosage": "Adults: 219mg every 12 hours.",
+    "sideEffects": "Dizziness, Constipation, Drowsiness",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug20",
+    "genericName": "GenericSubstance20",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 20.",
+    "dosage": "Adults: 627mg every 12 hours.",
+    "sideEffects": "Dizziness, Constipation, Stomach pain",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug21",
+    "genericName": "GenericSubstance21",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 21.",
+    "dosage": "Adults: 278mg every 8 hours.",
+    "sideEffects": "Drowsiness, Rash, Constipation",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug22",
+    "genericName": "GenericSubstance22",
+    "category": "Allergy",
+    "use": "Used for treating condition 22.",
+    "dosage": "Adults: 539mg every 8 hours.",
+    "sideEffects": "Constipation, Dry mouth, Dizziness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug23",
+    "genericName": "GenericSubstance23",
+    "category": "Skin Care",
+    "use": "Used for treating condition 23.",
+    "dosage": "Adults: 551mg every 4 hours.",
+    "sideEffects": "Nausea, Headache, Dry mouth",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug24",
+    "genericName": "GenericSubstance24",
+    "category": "Heart Health",
+    "use": "Used for treating condition 24.",
+    "dosage": "Adults: 290mg every 6 hours.",
+    "sideEffects": "Dizziness, Headache, Rash",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug25",
+    "genericName": "GenericSubstance25",
+    "category": "Allergy",
+    "use": "Used for treating condition 25.",
+    "dosage": "Adults: 85mg every 12 hours.",
+    "sideEffects": "Rash, Headache, Stomach pain",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug26",
+    "genericName": "GenericSubstance26",
+    "category": "Mental Health",
+    "use": "Used for treating condition 26.",
+    "dosage": "Adults: 138mg every 6 hours.",
+    "sideEffects": "Nausea, Constipation, Rash",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug27",
+    "genericName": "GenericSubstance27",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 27.",
+    "dosage": "Adults: 828mg every 4 hours.",
+    "sideEffects": "Rash, Stomach pain, Dizziness",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug28",
+    "genericName": "GenericSubstance28",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 28.",
+    "dosage": "Adults: 144mg every 8 hours.",
+    "sideEffects": "Dizziness, Drowsiness, Stomach pain",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug29",
+    "genericName": "GenericSubstance29",
+    "category": "Heart Health",
+    "use": "Used for treating condition 29.",
+    "dosage": "Adults: 203mg every 4 hours.",
+    "sideEffects": "Stomach pain, Constipation, Dizziness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug30",
+    "genericName": "GenericSubstance30",
+    "category": "Skin Care",
+    "use": "Used for treating condition 30.",
+    "dosage": "Adults: 481mg every 4 hours.",
+    "sideEffects": "Constipation, Dry mouth, Dizziness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug31",
+    "genericName": "GenericSubstance31",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 31.",
+    "dosage": "Adults: 518mg every 8 hours.",
+    "sideEffects": "Constipation, Headache, Rash",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug32",
+    "genericName": "GenericSubstance32",
+    "category": "Heart Health",
+    "use": "Used for treating condition 32.",
+    "dosage": "Adults: 749mg every 8 hours.",
+    "sideEffects": "Dry mouth, Dizziness, Constipation",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug33",
+    "genericName": "GenericSubstance33",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 33.",
+    "dosage": "Adults: 397mg every 4 hours.",
+    "sideEffects": "Rash, Headache, Drowsiness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug34",
+    "genericName": "GenericSubstance34",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 34.",
+    "dosage": "Adults: 467mg every 12 hours.",
+    "sideEffects": "Rash, Dry mouth, Dizziness",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug35",
+    "genericName": "GenericSubstance35",
+    "category": "Mental Health",
+    "use": "Used for treating condition 35.",
+    "dosage": "Adults: 52mg every 12 hours.",
+    "sideEffects": "Nausea, Constipation, Drowsiness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug36",
+    "genericName": "GenericSubstance36",
+    "category": "Skin Care",
+    "use": "Used for treating condition 36.",
+    "dosage": "Adults: 995mg every 8 hours.",
+    "sideEffects": "Dizziness, Dry mouth, Drowsiness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug37",
+    "genericName": "GenericSubstance37",
+    "category": "Mental Health",
+    "use": "Used for treating condition 37.",
+    "dosage": "Adults: 645mg every 4 hours.",
+    "sideEffects": "Drowsiness, Dry mouth, Constipation",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug38",
+    "genericName": "GenericSubstance38",
+    "category": "Mental Health",
+    "use": "Used for treating condition 38.",
+    "dosage": "Adults: 895mg every 8 hours.",
+    "sideEffects": "Nausea, Constipation, Drowsiness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug39",
+    "genericName": "GenericSubstance39",
+    "category": "Heart Health",
+    "use": "Used for treating condition 39.",
+    "dosage": "Adults: 371mg every 4 hours.",
+    "sideEffects": "Nausea, Stomach pain, Constipation",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug40",
+    "genericName": "GenericSubstance40",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 40.",
+    "dosage": "Adults: 951mg every 6 hours.",
+    "sideEffects": "Constipation, Dizziness, Dry mouth",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug41",
+    "genericName": "GenericSubstance41",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 41.",
+    "dosage": "Adults: 127mg every 6 hours.",
+    "sideEffects": "Dizziness, Constipation, Stomach pain",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug42",
+    "genericName": "GenericSubstance42",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 42.",
+    "dosage": "Adults: 499mg every 8 hours.",
+    "sideEffects": "Stomach pain, Constipation, Rash",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug43",
+    "genericName": "GenericSubstance43",
+    "category": "Heart Health",
+    "use": "Used for treating condition 43.",
+    "dosage": "Adults: 233mg every 4 hours.",
+    "sideEffects": "Drowsiness, Nausea, Headache",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug44",
+    "genericName": "GenericSubstance44",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 44.",
+    "dosage": "Adults: 448mg every 4 hours.",
+    "sideEffects": "Dry mouth, Headache, Dizziness",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug45",
+    "genericName": "GenericSubstance45",
+    "category": "Heart Health",
+    "use": "Used for treating condition 45.",
+    "dosage": "Adults: 339mg every 4 hours.",
+    "sideEffects": "Rash, Stomach pain, Headache",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug46",
+    "genericName": "GenericSubstance46",
+    "category": "Heart Health",
+    "use": "Used for treating condition 46.",
+    "dosage": "Adults: 902mg every 4 hours.",
+    "sideEffects": "Nausea, Rash, Dizziness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug47",
+    "genericName": "GenericSubstance47",
+    "category": "Skin Care",
+    "use": "Used for treating condition 47.",
+    "dosage": "Adults: 159mg every 6 hours.",
+    "sideEffects": "Stomach pain, Rash, Headache",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug48",
+    "genericName": "GenericSubstance48",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 48.",
+    "dosage": "Adults: 295mg every 8 hours.",
+    "sideEffects": "Drowsiness, Stomach pain, Dizziness",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug49",
+    "genericName": "GenericSubstance49",
+    "category": "Mental Health",
+    "use": "Used for treating condition 49.",
+    "dosage": "Adults: 537mg every 4 hours.",
+    "sideEffects": "Constipation, Dizziness, Drowsiness",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug50",
+    "genericName": "GenericSubstance50",
+    "category": "Heart Health",
+    "use": "Used for treating condition 50.",
+    "dosage": "Adults: 668mg every 6 hours.",
+    "sideEffects": "Headache, Drowsiness, Dizziness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug51",
+    "genericName": "GenericSubstance51",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 51.",
+    "dosage": "Adults: 197mg every 6 hours.",
+    "sideEffects": "Constipation, Stomach pain, Drowsiness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug52",
+    "genericName": "GenericSubstance52",
+    "category": "Allergy",
+    "use": "Used for treating condition 52.",
+    "dosage": "Adults: 244mg every 12 hours.",
+    "sideEffects": "Stomach pain, Drowsiness, Dry mouth",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug53",
+    "genericName": "GenericSubstance53",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 53.",
+    "dosage": "Adults: 180mg every 8 hours.",
+    "sideEffects": "Headache, Stomach pain, Drowsiness",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug54",
+    "genericName": "GenericSubstance54",
+    "category": "Heart Health",
+    "use": "Used for treating condition 54.",
+    "dosage": "Adults: 336mg every 4 hours.",
+    "sideEffects": "Headache, Nausea, Constipation",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug55",
+    "genericName": "GenericSubstance55",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 55.",
+    "dosage": "Adults: 954mg every 8 hours.",
+    "sideEffects": "Rash, Dry mouth, Dizziness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug56",
+    "genericName": "GenericSubstance56",
+    "category": "Mental Health",
+    "use": "Used for treating condition 56.",
+    "dosage": "Adults: 181mg every 6 hours.",
+    "sideEffects": "Dry mouth, Rash, Stomach pain",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug57",
+    "genericName": "GenericSubstance57",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 57.",
+    "dosage": "Adults: 48mg every 6 hours.",
+    "sideEffects": "Rash, Nausea, Headache",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug58",
+    "genericName": "GenericSubstance58",
+    "category": "Heart Health",
+    "use": "Used for treating condition 58.",
+    "dosage": "Adults: 225mg every 4 hours.",
+    "sideEffects": "Stomach pain, Nausea, Rash",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug59",
+    "genericName": "GenericSubstance59",
+    "category": "Allergy",
+    "use": "Used for treating condition 59.",
+    "dosage": "Adults: 988mg every 8 hours.",
+    "sideEffects": "Stomach pain, Nausea, Rash",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug60",
+    "genericName": "GenericSubstance60",
+    "category": "Allergy",
+    "use": "Used for treating condition 60.",
+    "dosage": "Adults: 612mg every 8 hours.",
+    "sideEffects": "Drowsiness, Dry mouth, Nausea",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug61",
+    "genericName": "GenericSubstance61",
+    "category": "Allergy",
+    "use": "Used for treating condition 61.",
+    "dosage": "Adults: 891mg every 6 hours.",
+    "sideEffects": "Stomach pain, Drowsiness, Dry mouth",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug62",
+    "genericName": "GenericSubstance62",
+    "category": "Heart Health",
+    "use": "Used for treating condition 62.",
+    "dosage": "Adults: 991mg every 12 hours.",
+    "sideEffects": "Rash, Dry mouth, Dizziness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug63",
+    "genericName": "GenericSubstance63",
+    "category": "Skin Care",
+    "use": "Used for treating condition 63.",
+    "dosage": "Adults: 557mg every 12 hours.",
+    "sideEffects": "Dry mouth, Constipation, Headache",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug64",
+    "genericName": "GenericSubstance64",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 64.",
+    "dosage": "Adults: 605mg every 4 hours.",
+    "sideEffects": "Stomach pain, Headache, Rash",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug65",
+    "genericName": "GenericSubstance65",
+    "category": "Skin Care",
+    "use": "Used for treating condition 65.",
+    "dosage": "Adults: 680mg every 4 hours.",
+    "sideEffects": "Rash, Stomach pain, Dizziness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug66",
+    "genericName": "GenericSubstance66",
+    "category": "Skin Care",
+    "use": "Used for treating condition 66.",
+    "dosage": "Adults: 302mg every 4 hours.",
+    "sideEffects": "Nausea, Rash, Dry mouth",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug67",
+    "genericName": "GenericSubstance67",
+    "category": "Allergy",
+    "use": "Used for treating condition 67.",
+    "dosage": "Adults: 182mg every 8 hours.",
+    "sideEffects": "Nausea, Dry mouth, Dizziness",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug68",
+    "genericName": "GenericSubstance68",
+    "category": "Skin Care",
+    "use": "Used for treating condition 68.",
+    "dosage": "Adults: 19mg every 8 hours.",
+    "sideEffects": "Dizziness, Headache, Nausea",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug69",
+    "genericName": "GenericSubstance69",
+    "category": "Allergy",
+    "use": "Used for treating condition 69.",
+    "dosage": "Adults: 953mg every 8 hours.",
+    "sideEffects": "Stomach pain, Headache, Dizziness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug70",
+    "genericName": "GenericSubstance70",
+    "category": "Mental Health",
+    "use": "Used for treating condition 70.",
+    "dosage": "Adults: 876mg every 8 hours.",
+    "sideEffects": "Dizziness, Stomach pain, Rash",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug71",
+    "genericName": "GenericSubstance71",
+    "category": "Mental Health",
+    "use": "Used for treating condition 71.",
+    "dosage": "Adults: 230mg every 8 hours.",
+    "sideEffects": "Rash, Constipation, Stomach pain",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug72",
+    "genericName": "GenericSubstance72",
+    "category": "Mental Health",
+    "use": "Used for treating condition 72.",
+    "dosage": "Adults: 192mg every 4 hours.",
+    "sideEffects": "Headache, Nausea, Rash",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug73",
+    "genericName": "GenericSubstance73",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 73.",
+    "dosage": "Adults: 193mg every 12 hours.",
+    "sideEffects": "Constipation, Dry mouth, Stomach pain",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug74",
+    "genericName": "GenericSubstance74",
+    "category": "Heart Health",
+    "use": "Used for treating condition 74.",
+    "dosage": "Adults: 838mg every 4 hours.",
+    "sideEffects": "Constipation, Dry mouth, Headache",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug75",
+    "genericName": "GenericSubstance75",
+    "category": "Heart Health",
+    "use": "Used for treating condition 75.",
+    "dosage": "Adults: 618mg every 12 hours.",
+    "sideEffects": "Nausea, Stomach pain, Dizziness",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug76",
+    "genericName": "GenericSubstance76",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 76.",
+    "dosage": "Adults: 699mg every 6 hours.",
+    "sideEffects": "Dry mouth, Constipation, Rash",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug77",
+    "genericName": "GenericSubstance77",
+    "category": "Skin Care",
+    "use": "Used for treating condition 77.",
+    "dosage": "Adults: 809mg every 8 hours.",
+    "sideEffects": "Rash, Dizziness, Headache",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug78",
+    "genericName": "GenericSubstance78",
+    "category": "Skin Care",
+    "use": "Used for treating condition 78.",
+    "dosage": "Adults: 553mg every 8 hours.",
+    "sideEffects": "Dry mouth, Rash, Stomach pain",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug79",
+    "genericName": "GenericSubstance79",
+    "category": "Allergy",
+    "use": "Used for treating condition 79.",
+    "dosage": "Adults: 307mg every 8 hours.",
+    "sideEffects": "Headache, Constipation, Stomach pain",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug80",
+    "genericName": "GenericSubstance80",
+    "category": "Mental Health",
+    "use": "Used for treating condition 80.",
+    "dosage": "Adults: 692mg every 4 hours.",
+    "sideEffects": "Dry mouth, Stomach pain, Nausea",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug81",
+    "genericName": "GenericSubstance81",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 81.",
+    "dosage": "Adults: 16mg every 6 hours.",
+    "sideEffects": "Headache, Dry mouth, Constipation",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug82",
+    "genericName": "GenericSubstance82",
+    "category": "Skin Care",
+    "use": "Used for treating condition 82.",
+    "dosage": "Adults: 593mg every 12 hours.",
+    "sideEffects": "Headache, Drowsiness, Stomach pain",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug83",
+    "genericName": "GenericSubstance83",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 83.",
+    "dosage": "Adults: 305mg every 12 hours.",
+    "sideEffects": "Headache, Rash, Dizziness",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug84",
+    "genericName": "GenericSubstance84",
+    "category": "Allergy",
+    "use": "Used for treating condition 84.",
+    "dosage": "Adults: 670mg every 4 hours.",
+    "sideEffects": "Headache, Stomach pain, Dizziness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug85",
+    "genericName": "GenericSubstance85",
+    "category": "Allergy",
+    "use": "Used for treating condition 85.",
+    "dosage": "Adults: 98mg every 8 hours.",
+    "sideEffects": "Dry mouth, Dizziness, Constipation",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug86",
+    "genericName": "GenericSubstance86",
+    "category": "Allergy",
+    "use": "Used for treating condition 86.",
+    "dosage": "Adults: 987mg every 12 hours.",
+    "sideEffects": "Rash, Constipation, Headache",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug87",
+    "genericName": "GenericSubstance87",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 87.",
+    "dosage": "Adults: 450mg every 6 hours.",
+    "sideEffects": "Dizziness, Headache, Drowsiness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug88",
+    "genericName": "GenericSubstance88",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 88.",
+    "dosage": "Adults: 773mg every 4 hours.",
+    "sideEffects": "Constipation, Dry mouth, Drowsiness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug89",
+    "genericName": "GenericSubstance89",
+    "category": "Heart Health",
+    "use": "Used for treating condition 89.",
+    "dosage": "Adults: 36mg every 12 hours.",
+    "sideEffects": "Constipation, Nausea, Rash",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug90",
+    "genericName": "GenericSubstance90",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 90.",
+    "dosage": "Adults: 909mg every 8 hours.",
+    "sideEffects": "Rash, Constipation, Drowsiness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug91",
+    "genericName": "GenericSubstance91",
+    "category": "Cold & Flu",
+    "use": "Used for treating condition 91.",
+    "dosage": "Adults: 342mg every 6 hours.",
+    "sideEffects": "Drowsiness, Dizziness, Stomach pain",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug92",
+    "genericName": "GenericSubstance92",
+    "category": "Mental Health",
+    "use": "Used for treating condition 92.",
+    "dosage": "Adults: 71mg every 4 hours.",
+    "sideEffects": "Stomach pain, Dizziness, Constipation",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug93",
+    "genericName": "GenericSubstance93",
+    "category": "Digestive Health",
+    "use": "Used for treating condition 93.",
+    "dosage": "Adults: 147mg every 6 hours.",
+    "sideEffects": "Constipation, Stomach pain, Dry mouth",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug94",
+    "genericName": "GenericSubstance94",
+    "category": "Allergy",
+    "use": "Used for treating condition 94.",
+    "dosage": "Adults: 697mg every 6 hours.",
+    "sideEffects": "Drowsiness, Nausea, Dizziness",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug95",
+    "genericName": "GenericSubstance95",
+    "category": "Allergy",
+    "use": "Used for treating condition 95.",
+    "dosage": "Adults: 77mg every 6 hours.",
+    "sideEffects": "Drowsiness, Constipation, Rash",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug96",
+    "genericName": "GenericSubstance96",
+    "category": "Skin Care",
+    "use": "Used for treating condition 96.",
+    "dosage": "Adults: 401mg every 12 hours.",
+    "sideEffects": "Rash, Nausea, Constipation",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug97",
+    "genericName": "GenericSubstance97",
+    "category": "Allergy",
+    "use": "Used for treating condition 97.",
+    "dosage": "Adults: 555mg every 12 hours.",
+    "sideEffects": "Constipation, Nausea, Drowsiness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug98",
+    "genericName": "GenericSubstance98",
+    "category": "Heart Health",
+    "use": "Used for treating condition 98.",
+    "dosage": "Adults: 518mg every 6 hours.",
+    "sideEffects": "Constipation, Dry mouth, Nausea",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug99",
+    "genericName": "GenericSubstance99",
+    "category": "Pain Relief",
+    "use": "Used for treating condition 99.",
+    "dosage": "Adults: 838mg every 12 hours.",
+    "sideEffects": "Constipation, Nausea, Dizziness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug100",
+    "genericName": "GenericSubstance100",
+    "category": "Skin Care",
+    "use": "Used for treating condition 100.",
+    "dosage": "Adults: 606mg every 4 hours.",
+    "sideEffects": "Drowsiness, Stomach pain, Constipation",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug101",
+    "genericName": "GenericSubstance101",
+    "category": "Cholesterol Management",
+    "use": "Used for managing cholesterol management related conditions.",
+    "dosage": "Adults: 295mg every 8 hours.",
+    "sideEffects": "Rash, Dizziness, Constipation",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug102",
+    "genericName": "GenericSubstance102",
+    "category": "Sleep Aid",
+    "use": "Used for managing sleep aid related conditions.",
+    "dosage": "Adults: 398mg every 4 hours.",
+    "sideEffects": "Nausea, Dry mouth, Stomach pain",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug103",
+    "genericName": "GenericSubstance103",
+    "category": "Vitamins",
+    "use": "Used for managing vitamins related conditions.",
+    "dosage": "Adults: 474mg every 12 hours.",
+    "sideEffects": "Nausea, Drowsiness, Rash",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug104",
+    "genericName": "GenericSubstance104",
+    "category": "Antihistamines",
+    "use": "Used for managing antihistamines related conditions.",
+    "dosage": "Adults: 867mg every 4 hours.",
+    "sideEffects": "Headache, Nausea, Rash",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug105",
+    "genericName": "GenericSubstance105",
+    "category": "Antidepressants",
+    "use": "Used for managing antidepressants related conditions.",
+    "dosage": "Adults: 351mg every 4 hours.",
+    "sideEffects": "Constipation, Rash, Drowsiness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug106",
+    "genericName": "GenericSubstance106",
+    "category": "Antidepressants",
+    "use": "Used for managing antidepressants related conditions.",
+    "dosage": "Adults: 576mg every 12 hours.",
+    "sideEffects": "Constipation, Headache, Stomach pain",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug107",
+    "genericName": "GenericSubstance107",
+    "category": "Diabetes",
+    "use": "Used for managing diabetes related conditions.",
+    "dosage": "Adults: 717mg every 4 hours.",
+    "sideEffects": "Stomach pain, Dizziness, Constipation",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug108",
+    "genericName": "GenericSubstance108",
+    "category": "Diabetes",
+    "use": "Used for managing diabetes related conditions.",
+    "dosage": "Adults: 979mg every 6 hours.",
+    "sideEffects": "Rash, Dizziness, Nausea",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug109",
+    "genericName": "GenericSubstance109",
+    "category": "Cholesterol Management",
+    "use": "Used for managing cholesterol management related conditions.",
+    "dosage": "Adults: 206mg every 8 hours.",
+    "sideEffects": "Dizziness, Drowsiness, Headache",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug110",
+    "genericName": "GenericSubstance110",
+    "category": "Cholesterol Management",
+    "use": "Used for managing cholesterol management related conditions.",
+    "dosage": "Adults: 673mg every 8 hours.",
+    "sideEffects": "Nausea, Constipation, Headache",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug111",
+    "genericName": "GenericSubstance111",
+    "category": "Sleep Aid",
+    "use": "Used for managing sleep aid related conditions.",
+    "dosage": "Adults: 480mg every 6 hours.",
+    "sideEffects": "Stomach pain, Constipation, Nausea",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug112",
+    "genericName": "GenericSubstance112",
+    "category": "Blood Pressure",
+    "use": "Used for managing blood pressure related conditions.",
+    "dosage": "Adults: 41mg every 6 hours.",
+    "sideEffects": "Drowsiness, Nausea, Headache",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug113",
+    "genericName": "GenericSubstance113",
+    "category": "Antibiotics",
+    "use": "Used for managing antibiotics related conditions.",
+    "dosage": "Adults: 291mg every 8 hours.",
+    "sideEffects": "Dry mouth, Nausea, Headache",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug114",
+    "genericName": "GenericSubstance114",
+    "category": "Vitamins",
+    "use": "Used for managing vitamins related conditions.",
+    "dosage": "Adults: 125mg every 8 hours.",
+    "sideEffects": "Dizziness, Nausea, Constipation",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug115",
+    "genericName": "GenericSubstance115",
+    "category": "Cholesterol Management",
+    "use": "Used for managing cholesterol management related conditions.",
+    "dosage": "Adults: 376mg every 4 hours.",
+    "sideEffects": "Constipation, Dizziness, Nausea",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug116",
+    "genericName": "GenericSubstance116",
+    "category": "Antihistamines",
+    "use": "Used for managing antihistamines related conditions.",
+    "dosage": "Adults: 371mg every 8 hours.",
+    "sideEffects": "Rash, Headache, Nausea",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug117",
+    "genericName": "GenericSubstance117",
+    "category": "Antifungals",
+    "use": "Used for managing antifungals related conditions.",
+    "dosage": "Adults: 361mg every 8 hours.",
+    "sideEffects": "Stomach pain, Headache, Drowsiness",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug118",
+    "genericName": "GenericSubstance118",
+    "category": "Antihistamines",
+    "use": "Used for managing antihistamines related conditions.",
+    "dosage": "Adults: 266mg every 12 hours.",
+    "sideEffects": "Headache, Drowsiness, Dizziness",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug119",
+    "genericName": "GenericSubstance119",
+    "category": "Cholesterol Management",
+    "use": "Used for managing cholesterol management related conditions.",
+    "dosage": "Adults: 392mg every 4 hours.",
+    "sideEffects": "Dizziness, Drowsiness, Dry mouth",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug120",
+    "genericName": "GenericSubstance120",
+    "category": "Antibiotics",
+    "use": "Used for managing antibiotics related conditions.",
+    "dosage": "Adults: 740mg every 12 hours.",
+    "sideEffects": "Dry mouth, Dizziness, Constipation",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug121",
+    "genericName": "GenericSubstance121",
+    "category": "Blood Pressure",
+    "use": "Used for managing blood pressure related conditions.",
+    "dosage": "Adults: 173mg every 12 hours.",
+    "sideEffects": "Dry mouth, Drowsiness, Dizziness",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug122",
+    "genericName": "GenericSubstance122",
+    "category": "Cholesterol Management",
+    "use": "Used for managing cholesterol management related conditions.",
+    "dosage": "Adults: 850mg every 4 hours.",
+    "sideEffects": "Nausea, Drowsiness, Dizziness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug123",
+    "genericName": "GenericSubstance123",
+    "category": "Antidepressants",
+    "use": "Used for managing antidepressants related conditions.",
+    "dosage": "Adults: 584mg every 6 hours.",
+    "sideEffects": "Rash, Nausea, Dry mouth",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug124",
+    "genericName": "GenericSubstance124",
+    "category": "Vitamins",
+    "use": "Used for managing vitamins related conditions.",
+    "dosage": "Adults: 225mg every 6 hours.",
+    "sideEffects": "Dry mouth, Constipation, Drowsiness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug125",
+    "genericName": "GenericSubstance125",
+    "category": "Sleep Aid",
+    "use": "Used for managing sleep aid related conditions.",
+    "dosage": "Adults: 46mg every 12 hours.",
+    "sideEffects": "Dry mouth, Constipation, Stomach pain",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug126",
+    "genericName": "GenericSubstance126",
+    "category": "Antidepressants",
+    "use": "Used for managing antidepressants related conditions.",
+    "dosage": "Adults: 629mg every 4 hours.",
+    "sideEffects": "Stomach pain, Dry mouth, Dizziness",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug127",
+    "genericName": "GenericSubstance127",
+    "category": "Antibiotics",
+    "use": "Used for managing antibiotics related conditions.",
+    "dosage": "Adults: 320mg every 12 hours.",
+    "sideEffects": "Stomach pain, Headache, Dry mouth",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug128",
+    "genericName": "GenericSubstance128",
+    "category": "Antacids",
+    "use": "Used for managing antacids related conditions.",
+    "dosage": "Adults: 694mg every 6 hours.",
+    "sideEffects": "Stomach pain, Headache, Constipation",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug129",
+    "genericName": "GenericSubstance129",
+    "category": "Diabetes",
+    "use": "Used for managing diabetes related conditions.",
+    "dosage": "Adults: 736mg every 4 hours.",
+    "sideEffects": "Drowsiness, Headache, Nausea",
+    "warnings": "May cause drowsiness"
+  },
+  {
+    "name": "Drug130",
+    "genericName": "GenericSubstance130",
+    "category": "Blood Pressure",
+    "use": "Used for managing blood pressure related conditions.",
+    "dosage": "Adults: 870mg every 6 hours.",
+    "sideEffects": "Nausea, Dry mouth, Constipation",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug131",
+    "genericName": "GenericSubstance131",
+    "category": "Antifungals",
+    "use": "Used for managing antifungals related conditions.",
+    "dosage": "Adults: 793mg every 12 hours.",
+    "sideEffects": "Headache, Stomach pain, Nausea",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug132",
+    "genericName": "GenericSubstance132",
+    "category": "Cholesterol Management",
+    "use": "Used for managing cholesterol management related conditions.",
+    "dosage": "Adults: 346mg every 4 hours.",
+    "sideEffects": "Drowsiness, Dry mouth, Stomach pain",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug133",
+    "genericName": "GenericSubstance133",
+    "category": "Diabetes",
+    "use": "Used for managing diabetes related conditions.",
+    "dosage": "Adults: 893mg every 4 hours.",
+    "sideEffects": "Dizziness, Stomach pain, Headache",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug134",
+    "genericName": "GenericSubstance134",
+    "category": "Antidepressants",
+    "use": "Used for managing antidepressants related conditions.",
+    "dosage": "Adults: 1000mg every 12 hours.",
+    "sideEffects": "Rash, Constipation, Headache",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug135",
+    "genericName": "GenericSubstance135",
+    "category": "Blood Pressure",
+    "use": "Used for managing blood pressure related conditions.",
+    "dosage": "Adults: 293mg every 12 hours.",
+    "sideEffects": "Stomach pain, Dry mouth, Rash",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug136",
+    "genericName": "GenericSubstance136",
+    "category": "Diabetes",
+    "use": "Used for managing diabetes related conditions.",
+    "dosage": "Adults: 67mg every 6 hours.",
+    "sideEffects": "Nausea, Dizziness, Headache",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug137",
+    "genericName": "GenericSubstance137",
+    "category": "Antihistamines",
+    "use": "Used for managing antihistamines related conditions.",
+    "dosage": "Adults: 405mg every 8 hours.",
+    "sideEffects": "Rash, Drowsiness, Nausea",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug138",
+    "genericName": "GenericSubstance138",
+    "category": "Antihistamines",
+    "use": "Used for managing antihistamines related conditions.",
+    "dosage": "Adults: 178mg every 6 hours.",
+    "sideEffects": "Stomach pain, Constipation, Dry mouth",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug139",
+    "genericName": "GenericSubstance139",
+    "category": "Vitamins",
+    "use": "Used for managing vitamins related conditions.",
+    "dosage": "Adults: 824mg every 6 hours.",
+    "sideEffects": "Headache, Nausea, Drowsiness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug140",
+    "genericName": "GenericSubstance140",
+    "category": "Antacids",
+    "use": "Used for managing antacids related conditions.",
+    "dosage": "Adults: 810mg every 12 hours.",
+    "sideEffects": "Stomach pain, Drowsiness, Constipation",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug141",
+    "genericName": "GenericSubstance141",
+    "category": "Antihistamines",
+    "use": "Used for managing antihistamines related conditions.",
+    "dosage": "Adults: 30mg every 12 hours.",
+    "sideEffects": "Rash, Headache, Nausea",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug142",
+    "genericName": "GenericSubstance142",
+    "category": "Antihistamines",
+    "use": "Used for managing antihistamines related conditions.",
+    "dosage": "Adults: 387mg every 8 hours.",
+    "sideEffects": "Rash, Nausea, Constipation",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug143",
+    "genericName": "GenericSubstance143",
+    "category": "Antifungals",
+    "use": "Used for managing antifungals related conditions.",
+    "dosage": "Adults: 201mg every 6 hours.",
+    "sideEffects": "Stomach pain, Nausea, Drowsiness",
+    "warnings": "Avoid with alcohol"
+  },
+  {
+    "name": "Drug144",
+    "genericName": "GenericSubstance144",
+    "category": "Sleep Aid",
+    "use": "Used for managing sleep aid related conditions.",
+    "dosage": "Adults: 453mg every 6 hours.",
+    "sideEffects": "Drowsiness, Stomach pain, Dry mouth",
+    "warnings": "Avoid if allergic to any ingredient"
+  },
+  {
+    "name": "Drug145",
+    "genericName": "GenericSubstance145",
+    "category": "Diabetes",
+    "use": "Used for managing diabetes related conditions.",
+    "dosage": "Adults: 165mg every 4 hours.",
+    "sideEffects": "Stomach pain, Dizziness, Nausea",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug146",
+    "genericName": "GenericSubstance146",
+    "category": "Sleep Aid",
+    "use": "Used for managing sleep aid related conditions.",
+    "dosage": "Adults: 64mg every 12 hours.",
+    "sideEffects": "Stomach pain, Dry mouth, Dizziness",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug147",
+    "genericName": "GenericSubstance147",
+    "category": "Antidepressants",
+    "use": "Used for managing antidepressants related conditions.",
+    "dosage": "Adults: 657mg every 8 hours.",
+    "sideEffects": "Rash, Constipation, Drowsiness",
+    "warnings": "Use with caution in elderly patients"
+  },
+  {
+    "name": "Drug148",
+    "genericName": "GenericSubstance148",
+    "category": "Antibiotics",
+    "use": "Used for managing antibiotics related conditions.",
+    "dosage": "Adults: 591mg every 8 hours.",
+    "sideEffects": "Rash, Nausea, Dizziness",
+    "warnings": "Consult doctor if pregnant"
+  },
+  {
+    "name": "Drug149",
+    "genericName": "GenericSubstance149",
+    "category": "Diabetes",
+    "use": "Used for managing diabetes related conditions.",
+    "dosage": "Adults: 324mg every 4 hours.",
+    "sideEffects": "Dizziness, Headache, Stomach pain",
+    "warnings": "Do not mix with other medications"
+  },
+  {
+    "name": "Drug150",
+    "genericName": "GenericSubstance150",
+    "category": "Antibiotics",
+    "use": "Used for managing antibiotics related conditions.",
+    "dosage": "Adults: 101mg every 8 hours.",
+    "sideEffects": "Headache, Constipation, Drowsiness",
+    "warnings": "Avoid with alcohol"
+  }
+
+]
